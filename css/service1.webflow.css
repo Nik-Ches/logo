@@ -272,6 +272,7 @@
 }
 
 .top-header-div {
+  margin-bottom: 100px;
   position: relative;
   display: block;
   width: 82%;
@@ -615,6 +616,7 @@ html.w-mod-js *[data-ix="scale-in"] {
     margin-top: 208px;
   }
   .top-header-div {
+    margin-bottom: 100px;
     left: auto;
     top: auto;
     right: auto;
@@ -670,6 +672,7 @@ html.w-mod-js *[data-ix="scale-in"] {
     height: 100%;
   }
   .top-header-div {
+    margin-bottom: 50px;
     margin-top: -183px;
   }
   .testi-img-div {
@@ -722,6 +725,7 @@ html.w-mod-js *[data-ix="scale-in"] {
     margin-bottom: 0px;
   }
   .top-header-div {
+    margin-bottom: 50px;
     width: 100%;
     margin-top: -187px;
     font-size: 13px;
